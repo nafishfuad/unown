@@ -1,0 +1,26 @@
+h1 {
+   text-align: center;
+   background-color: pink;
+   color: black;
+   text-shadow: 1px 1px rgb(124, 95, 95);
+}
+img {
+    text-align: center;
+    width: 60%;
+    display: block;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+a {
+    margin-left: 100px;
+    text-decoration: none;
+    color: black;
+    border: 1px solid rgb(32, 30, 30);
+    padding: 10px;
+    background-color: darkgray;
+    border-radius: 5px;
+}
+a:hover {
+    background-color: pink;
+}
